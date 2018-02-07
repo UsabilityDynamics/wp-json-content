@@ -1,0 +1,15 @@
+{
+  "name": "wp-json-content",
+  "type": "wordpress-plugin",
+  "homepage": "https://udx.io",
+  "author": {
+    "name": "UDX",
+    "url": "https://udx.io"
+  },
+  "require": {
+
+  },
+  "autoload": {
+    "classmap": [ "lib/classes" ]
+  }
+}
