@@ -77,7 +77,7 @@ class Bootstrap {
       $object->user     = $this->get_user_data();
 
       return $object;
-    }, 10, 2 );
+    }, 5, 2 );
 
     ob_start();
 
